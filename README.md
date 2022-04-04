@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Brandon Pereira, I'm a full-stack developer with a focus on all things Javascript.
+My name's Brandon Pereira, I'm a full-stack developer with a focus on all things Typescript & Javascript.
 
 
 <!--
